@@ -1,0 +1,44 @@
+Date and Time: 13:43 PM, 24/06/2025
+========================================================
+Patient Name: Noman
+Age : 56
+Patient Gender: Male
+Patient Disease: Opthalmology
+Doctor Details: Dr.Raj - Cardiologist
+Diagnostic : X-Ray
+Medicine for Disease : napa
+Limbix
+--------------------------------------------------------
+Date and Time: 13:43 PM, 24/06/2025
+========================================================
+Patient Name: Noman
+Age : 56
+Patient Gender: Male
+Patient Disease: Opthalmology
+Doctor Details: Dr.Raj - Cardiologist
+Diagnostic : X-Ray
+Medicine for Disease : napa
+Limbix
+--------------------------------------------------------
+Date and Time: 14:11 PM, 24/06/2025
+========================================================
+Patient Name: x
+Age : 24
+Patient Gender: Female
+Patient Disease: Cardiovascular Disease
+Doctor Details: Dr. Toma - Oncologist
+Diagnostic : X-Ray
+Medicine for Disease : LImbix
+napa
+--------------------------------------------------------
+Date and Time: 15:30 PM, 24/06/2025
+========================================================
+Patient Name: Noman
+Age : 23
+Patient Gender: Male
+Patient Disease: Cardiovascular Disease
+Doctor Details: Dr.Raj - Cardiologist
+Diagnostic : MRI
+Medicine for Disease : napa
+Limbix
+--------------------------------------------------------
